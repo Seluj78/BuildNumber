@@ -18,7 +18,7 @@
 */
 
 # define MAJOR_VERSION 1
-# define MINOR_VERSION 0
+# define MINOR_VERSION 1
 
 # define MAX_BUILDS 9999
 # define MIN_BUILDS -999

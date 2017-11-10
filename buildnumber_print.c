@@ -28,9 +28,9 @@ void	bn_print_header(int fd)
 			"m>      +#+  +:+       +#+        */\n");
 	ft_dprintf(fd, "/*                                          "
 			"      +#+#+#+#+#+   +#+           */\n");
-	ft_dprintf(fd, "/*   Created: 1970/01/01 00:00:00 by buildnu"
+	ft_dprintf(fd, "/*   Created: 1970/01/01 00:00:01 by buildnu"
 			"mber       #+#    #+#             */\n");
-	ft_dprintf(fd, "/*   Updated: 1970/01/01 00:00:00 by buildnu"
+	ft_dprintf(fd, "/*   Updated: 1970/01/01 00:00:01 by buildnu"
 			"mber      ###   ########.fr       */\n");
 	ft_dprintf(fd, "/*                                          "
 			"                                  */\n");
